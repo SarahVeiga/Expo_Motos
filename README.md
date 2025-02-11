@@ -1,4 +1,4 @@
-# Expo_Motos
+# Expo Motos
 
 Criação de prototipo no figma da página web e da tipografia e cores, além da criação da página funcional. Com intuito pedagógico, foi feita a página HTML e CSS para aprofundar e continuar os estudos relacionados ao Front-End.
 
@@ -14,6 +14,7 @@ Antes de tudo, é importante a criação de um manual da marca. O manual da marc
 Outra parte importante do projeto, é o protótipo. O protótipo traz a ideia inicial do que deve ser feito numa página e como os elementos se encaixam na página, além de que cores devem ser usadas em que elementos. No projeto ExpoMoto, foram feitos do protótipo para desktop e sua adaptação para mobile. A diferença entre os dois protótipos são a disposição dos elementos e os tamanhos das fontes, principalmente. Finalizado, os protótipos:
 
 Desktop
+
 ![image](https://github.com/user-attachments/assets/164975a8-deb6-4706-92d8-509d5f48f910)
 
 ![image](https://github.com/user-attachments/assets/6ca3ea60-7633-4b79-b866-ce9445ecc0a9)
@@ -22,6 +23,7 @@ Desktop
 
 
 Mobile
+
 ![image](https://github.com/user-attachments/assets/9205ec93-c340-489a-9935-12c9cbd7ff4c)
 
 ![image](https://github.com/user-attachments/assets/99702ffe-ce3f-40dd-a210-87b029929791)
