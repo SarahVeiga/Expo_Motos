@@ -41,6 +41,33 @@ Com a estrutura pronta, restou produzir a estilização da página com o CSS. Fi
 
 Desktop
 
+![image](https://github.com/user-attachments/assets/2344b16c-8426-4c07-9bbe-526a1c3ae8da)
+
+![image](https://github.com/user-attachments/assets/5c655e1d-5753-4781-bc5b-30e5b9d1b0ba)
+
+![image](https://github.com/user-attachments/assets/e8a2bf55-4297-47ca-bd6a-be74c9cc7ea5)
+
+![image](https://github.com/user-attachments/assets/9dd83259-836c-4282-b76b-0b57aee6a8b9)
+
+![image](https://github.com/user-attachments/assets/f7bff834-234a-43a5-8bc1-d16faa37c998)
+
+![image](https://github.com/user-attachments/assets/90e984a6-a8cf-4056-8f05-687542176e7a)
+
+![image](https://github.com/user-attachments/assets/c62ce2ff-55d5-4e3f-91fa-78b3f1f702df)
 
 Mobile
+
+![image](https://github.com/user-attachments/assets/7ca3c1e0-cb7d-46d4-9abf-d97e26e544a1)
+
+![image](https://github.com/user-attachments/assets/8ad288e5-7b25-4866-8398-53703c04923e)
+
+![image](https://github.com/user-attachments/assets/a6b6175c-b81e-4967-a59b-8a96e6253fab)
+
+![image](https://github.com/user-attachments/assets/d8e49546-584a-454a-9197-1b910a1154c7)
+
+![image](https://github.com/user-attachments/assets/9df68f7a-e096-4e1f-85c6-a413f093629b)
+
+![image](https://github.com/user-attachments/assets/8d920032-6d9b-4dac-834f-036936dfc37e)
+
+![image](https://github.com/user-attachments/assets/5c53625d-d281-492a-996b-6c546b1b0f84)
 
